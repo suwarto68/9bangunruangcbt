@@ -1,0 +1,8 @@
+{
+  "name": "CBT ANBK Matematika SMP Kelas 8 - Fase D Bangun Ruang",
+  "description": "Aplikasi Ujian Online CBT ANBK Profesional Matematika SMP Kelas 8 Fase D materi Bangun Ruang dengan stimulus Puspendik, tipe soal PG, PGK, Benar-Salah, navigasi resmi ANBK, dan integrasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
